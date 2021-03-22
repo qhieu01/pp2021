@@ -9,6 +9,8 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: *Put your name here*
-* Student ID: *Put your ID here*
+* Student Name: *Trịnh Quốc Hiếu*
+* Student ID: *BI10-060*
+* Student Name: *Trịnh Quốc Hiếu 
+* Student ID: *BI10-060
 
