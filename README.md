@@ -11,6 +11,5 @@ Student Info
 
 * Student Name: *Trịnh Quốc Hiếu*
 * Student ID: *BI10-060*
-* Student Name: *Trịnh Quốc Hiếu 
-* Student ID: *BI10-060
+* Fist student commit
 
